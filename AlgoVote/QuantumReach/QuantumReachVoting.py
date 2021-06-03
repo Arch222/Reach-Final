@@ -1,3 +1,5 @@
+# Copyright Brian Haney and Archie Chaudhury 2021
+
 from dwave.system import DWaveSampler, EmbeddingComposite
 import random
 
