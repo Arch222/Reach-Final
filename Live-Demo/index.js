@@ -5,7 +5,7 @@ import MemberViews from './views/MemberViews';
 import {renderDOM, renderView} from './views/render';
 import './index.css';
 import * as backend from './build/index.main.mjs';
-import * as reach from '@reach-sh/stdlib/ETH';
+import * as reach from '@reach-sh/stdlib/ALGO';
 //Imports standard library, views, and stylesheet
 //Also imports the backend
 
