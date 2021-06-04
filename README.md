@@ -11,7 +11,7 @@ The decentralized voting problem refers to issues relating to governance and dec
 In the world of cryptocurrency transfers, this simply means formulating a way for participants to reach a consensus on how to distribute value without external interference and governance. For example, if an organization operating under a decentralized system needs a specific way to determine a governance change, the organization will use voting among certain members within the network to reach a decision. Defined, the decentralized voting problem is how to create a system where people can vote with weight associated value metrics?
 
 # Solution
-The solution is a new type of voting, which incorporates the laws of quantum mechanics to create an optimized voting machine. The methodologies described are dedicated toward blockchain development and focused on voting with associated rights in corporate governance and scalable security for political voting.
+The solution is a new type of voting, which incorporates the laws of quantum mechanics to create an optimized voting machine on blockchain networks using Reach. The methodologies described are dedicated toward blockchain development and focused on voting with associated rights in corporate governance and scalable security for political voting.
 
 # Copyright
 
