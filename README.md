@@ -13,6 +13,9 @@ In the world of cryptocurrency transfers, this simply means formulating a way fo
 # Solution
 The solution is a new type of voting, which incorporates the laws of quantum mechanics to create an optimized voting machine on blockchain networks using Reach. The methodologies described are dedicated toward blockchain development and focused on voting with associated rights in corporate governance and scalable security for political voting.
 
+White Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3860914
+YouTube: https://www.youtube.com/watch?v=fuGKCC7pWbU
+
 # Copyright
 
 Copyright Archie Chaudhury and Brian Haney 2021
